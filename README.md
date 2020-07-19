@@ -1,0 +1,2 @@
+# wtfiles
+Windows Terminal Settings
