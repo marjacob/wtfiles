@@ -14,10 +14,8 @@
   // Tab UI
   "showTerminalTitleInTitlebar": false,
 
-  "profiles":
-  {
-    "defaults":
-    {
+  "profiles": {
+    "defaults": {
       "colorScheme": "Solarized Dark",
       "cursorShape": "filledBox",
       "fontFace": "Hack",
@@ -29,8 +27,7 @@
 
       "confirmCloseAllTabs": false
     },
-    "list":
-    [
+    "list": [
       {
         "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
         "name": "Windows PowerShell",
@@ -77,7 +74,10 @@
       "keys": "ctrl+v"
     },
     {
-      "command": { "action": "copy", "singleLine": false },
+      "command": {
+        "action": "copy",
+        "singleLine": false
+      },
       "keys": "ctrl+c"
     },
 
