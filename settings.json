@@ -16,17 +16,15 @@
 
   "profiles": {
     "defaults": {
+      "acrylicOpacity": 0.9,
       "colorScheme": "Solarized Dark",
+      "confirmCloseAllTabs": false,
       "cursorShape": "filledBox",
       "fontFace": "Hack",
       "fontSize": 12,
       "padding": "4, 2",
       "scrollbarState": "hidden",
-
-      "acrylicOpacity": 0.9,
-      "useAcrylic": true,
-
-      "confirmCloseAllTabs": false
+      "useAcrylic": true
     },
     "list": [
       {
