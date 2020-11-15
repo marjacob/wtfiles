@@ -17,6 +17,7 @@
   "profiles": {
     "defaults": {
       "acrylicOpacity": 0.9,
+      "bellStyle": "none",
       "colorScheme": "Solarized Dark",
       "confirmCloseAllTabs": false,
       "cursorShape": "filledBox",
