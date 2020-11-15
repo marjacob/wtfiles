@@ -21,6 +21,7 @@
       "fontFace": "Hack",
       "fontSize": 12,
       "padding": "4, 2",
+      "scrollbarState": "hidden",
 
       "acrylicOpacity": 0.9,
       "useAcrylic": true,
