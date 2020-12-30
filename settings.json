@@ -16,7 +16,6 @@
 
   "profiles": {
     "defaults": {
-      "acrylicOpacity": 0.9,
       "antialiasingMode": "cleartype",
       "bellStyle": "none",
       "colorScheme": "Solarized Dark",
@@ -25,8 +24,7 @@
       "fontFace": "Hack",
       "fontSize": 10,
       "padding": 0,
-      "scrollbarState": "hidden",
-      "useAcrylic": true
+      "scrollbarState": "hidden"
     },
     "list": [
       {
