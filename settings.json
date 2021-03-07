@@ -78,19 +78,6 @@
       "keys": "ctrl+shift+f"
     },
 
-    // Clipboard Integration
-    {
-      "command": "paste",
-      "keys": "ctrl+v"
-    },
-    {
-      "command": {
-        "action": "copy",
-        "singleLine": false
-      },
-      "keys": "ctrl+c"
-    },
-
     // Pane Management
     {
       "command": {
